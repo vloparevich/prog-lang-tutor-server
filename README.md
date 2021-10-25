@@ -1,1 +1,1 @@
-## npx ironlauncher prog-lang-tutor-server 
+## npx ironlauncher prog-lang-tutor-server --auth
